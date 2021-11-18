@@ -1,13 +1,13 @@
 apiVersion: backstage.io/v1beta2
 kind: Template
 metadata:
-  name: springboot-template
-  title: Spring Boot gRPC Service
-  description: Create a simple microservice using gRPC and Spring Boot Java
+  name: grails-template
+  title: Grails Web Service
+  description: Create a simple Grails web application
   tags:
     - recommended
-    - java
-    - grpc
+    - groovy
+    - grails
 spec:
   owner: service@example.com
   type: service
