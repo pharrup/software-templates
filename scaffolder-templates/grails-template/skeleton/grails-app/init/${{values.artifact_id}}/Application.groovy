@@ -1,4 +1,4 @@
-package ${{values.artifact_id}}
+package ${{java_package_name}}
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration
