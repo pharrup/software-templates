@@ -1,4 +1,4 @@
-package skeleton
+package ${{values.artifact_id}}
 
 class BootStrap {
 
